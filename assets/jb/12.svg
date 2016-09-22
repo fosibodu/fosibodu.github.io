@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="1334px" viewBox="0 0 750 1334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #EFF0F4;">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>12 - Flight Class</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="128" width="750" height="75"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.184313725   0 0 0 0 0.431372549   0 0 0 0 0.68627451  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="750" height="88"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="197" width="256" height="6"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.603921569   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.603921569   0 0 0 0 0  0 0 0 0.497820426 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-12" x="0" y="0" width="353" height="100" rx="5"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.184313725   0 0 0 0 0.431372549   0 0 0 0 0.68627451  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-14">
+            <feGaussianBlur stdDeviation="3.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.137254902   0 0 0 0 0.380392157  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="JetBlue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="12---Flight-Class">
+            <g id="Nav-Bar">
+                <g id="Rectangle-21">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#2F6EAF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Background" transform="translate(0.000000, 40.000000)">
+                    <g>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#002361" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+                <g id="Status-Bar-/-White-">
+                    <polygon id="Background" fill="#002361" fill-rule="evenodd" points="0 0 0 40 750 40 750 0 389 0"></polygon>
+                    <g id="Signal" stroke-width="1" fill-rule="evenodd" transform="translate(13.000000, 15.000000)" fill="#FFFFFF">
+                        <ellipse id="Oval-1" cx="5.5" cy="5.5" rx="5.5" ry="5.5"></ellipse>
+                        <ellipse id="Oval-1-copy" cx="19.5" cy="5.5" rx="5.5" ry="5.5"></ellipse>
+                        <ellipse id="Oval-1-copy-2" cx="33.5" cy="5.5" rx="5.5" ry="5.5"></ellipse>
+                        <path d="M47.5,10 L47.5,10 C49.9852815,10 52,7.98528152 52,5.5 C52,3.01471848 49.9852815,1 47.5,1 C45.0147185,1 43,3.01471848 43,5.5 C43,7.98528152 45.0147185,10 47.5,10 L47.5,10 Z M47.5,11 L47.5,11 C44.4624337,11 42,8.53756627 42,5.5 C42,2.46243373 44.4624337,0 47.5,0 C50.5375663,0 53,2.46243373 53,5.5 C53,8.53756627 50.5375663,11 47.5,11 L47.5,11 Z" id="Shape"></path>
+                        <path d="M61.5,10 L61.5,10 C63.9852815,10 66,7.98528152 66,5.5 C66,3.01471848 63.9852815,1 61.5,1 C59.0147185,1 57,3.01471848 57,5.5 C57,7.98528152 59.0147185,10 61.5,10 L61.5,10 Z M61.5,11 L61.5,11 C58.4624337,11 56,8.53756627 56,5.5 C56,2.46243373 58.4624337,0 61.5,0 C64.5375663,0 67,2.46243373 67,5.5 C67,8.53756627 64.5375663,11 61.5,11 L61.5,11 Z" id="Shape"></path>
+                    </g>
+                    <text id="Facebook" font-family="SFUIDisplay-Regular, SF UI Display" font-size="24" font-weight="normal" line-spacing="28" letter-spacing="-0.000855312392" fill="#FFFFFF">
+                        <tspan x="88" y="29">FB</tspan>
+                    </text>
+                    <path d="M139.482686,22.9632497 C137.971392,22.9632497 136.587039,23.6002169 135.511406,24.5188619 L139.482686,29.055 L143.458474,24.5233687 C142.382089,23.6024703 140.996986,22.9632497 139.482686,22.9632497 Z M139.639675,13.9908752 C143.405143,13.9908752 146.837855,15.421798 149.46835,17.7691124 L151.294372,15.6869506 C148.17789,12.8964633 144.107459,10.945 139.638924,10.945 C135.1779,10.945 131.112727,12.8912053 128,15.6741813 L129.823018,17.7578453 C132.452762,15.41654 135.879465,13.9908752 139.639675,13.9908752 Z M139.587095,20 C141.844273,20 143.906153,20.8465355 145.496318,22.2376479 L147.429754,20.0345525 C145.32656,18.1717238 142.589404,16.9541248 139.587846,16.9541248 C136.591546,16.9541248 133.858146,18.1679681 131.755703,20.0255388 L133.686134,22.2316387 C135.274797,20.8427798 137.333673,20 139.587095,20 Z" id="Wifi" fill="#FFFFFF" fill-rule="evenodd"></path>
+                    <text id="9:41" font-family="SFUIDisplay-Regular, SF UI Display" font-size="24" font-weight="normal" line-spacing="28" letter-spacing="-0.000855312392" fill="#FFFFFF">
+                        <tspan x="332" y="29">1:20 PM</tspan>
+                    </text>
+                    <g id="Battery-Icon" stroke-width="1" fill-rule="evenodd" transform="translate(690.000000, 11.000000)" fill="#FFFFFF">
+                        <path d="M1,3.00012207 L1,3.00012207 L1,15.9998779 C1,17.1084722 1.89442645,18 3.0049167,18 L41.9950833,18 C43.1018726,18 44,17.1035969 44,15.9998779 L44,3.00012207 C44,1.89152775 43.1055735,1 41.9950833,1 L3.0049167,1 C1.89812741,1 1,1.89640308 1,3.00012207 L1,3.00012207 Z M0,3.00012207 C0,1.3432004 1.34676062,0 3.0049167,0 L41.9950833,0 C43.654653,0 45,1.3360431 45,3.00012207 L45,15.9998779 C45,17.6567996 43.6532394,19 41.9950833,19 L3.0049167,19 C1.34534703,19 0,17.6639569 0,15.9998779 L0,3.00012207 L0,3.00012207 Z" id="Shape"></path>
+                        <path d="M2.99653482,2 C2.44616384,2 2,2.44892021 2,3.00748397 L2,15.992516 C2,16.5489341 2.43981314,17 2.99653482,17 L30,17 L30,2 L2.99653482,2 Z M46,6 L47.5,6 C48.3284271,6 49,6.67118943 49,7.50167562 L49,11.4983244 C49,12.3276769 48.3342028,13 47.5,13 L46,13 L46,6 Z" id="Shape"></path>
+                    </g>
+                    <text id="42%" font-family="SFUIDisplay-Regular, SF UI Display" font-size="24" font-weight="normal" line-spacing="28" letter-spacing="-0.000855312392" fill="#FFFFFF">
+                        <tspan x="637" y="29">77%</tspan>
+                    </text>
+                    <path d="M623.919257,14.9762275 L615.522024,7 L615,7 L615,18 L609.622827,12.2438347 L608,13.9034659 L614.857143,20.5009998 L608,27.0985337 L609.622827,28.7571651 L615,23 L615,34 L615.685502,34 L624,26.0027772 L618.291197,20.5009998 L623.919257,14.9762275 Z M617,18 L617,12 L620.546753,15 L617,18 Z M617,23 L620.588379,26 L617,29 L617,23 Z" id="Bluetooth" fill="#FFFFFF" fill-rule="evenodd" opacity="0.45"></path>
+                </g>
+                <text id="Book-Flight" font-family="Avenir-Medium, Avenir" font-size="34" font-weight="400" fill="#FFFFFF">
+                    <tspan x="286.498" y="98">Book Flight</tspan>
+                </text>
+                <g id="Rectangle-27">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FF9A00" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <text id="ROUND-TRIP" font-family="Avenir-Black, Avenir" font-size="24" font-weight="700" fill="#FFFFFF">
+                    <tspan x="39" y="173">ROUND TRIP</tspan>
+                </text>
+                <text id="MULTI-CITY" font-family="Avenir-Black, Avenir" font-size="24" font-weight="700" fill="#FFFFFF">
+                    <tspan x="577" y="173">MULTI CITY</tspan>
+                </text>
+                <text id="ONE-WAY" font-family="Avenir-Black, Avenir" font-size="24" font-weight="700" fill="#FFFFFF">
+                    <tspan x="315" y="173">ONE WAY</tspan>
+                </text>
+                <g id="Group" transform="translate(20.000000, 76.000000)" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round">
+                    <path d="M0,1 L30,1" id="Line"></path>
+                    <path d="M0,10 L30,10" id="Line-Copy"></path>
+                    <path d="M0,19 L30,19" id="Line-Copy-2"></path>
+                </g>
+            </g>
+            <g id="Button" filter="url(#filter-7)" transform="translate(20.000000, 1239.000000)">
+                <rect id="Rectangle-22-Copy-4" fill="#FF9A00" x="0" y="0" width="710" height="75" rx="5"></rect>
+                <text id="SEARCH-FLIGHTS" font-family="Avenir-Black, Avenir" font-size="24" font-weight="700" fill="#FFFFFF">
+                    <tspan x="254" y="45">SEARCH FLIGHTS</tspan>
+                </text>
+            </g>
+            <g id="Cities" filter="url(#filter-8)" transform="translate(20.000000, 223.000000)">
+                <rect id="Rectangle-22" fill="#FFFFFF" x="0" y="0" width="710" height="350" rx="5"></rect>
+                <path d="M0,175 L710,175" id="Line" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <text id="DEPARTURE-CITY" font-family="Avenir-Black, Avenir" font-size="20" font-weight="700" fill="#9B9B9B">
+                    <tspan x="30" y="39">DEPARTURE CITY</tspan>
+                </text>
+                <text id="Arrival-City" font-family="Avenir-Black, Avenir" font-size="20" font-weight="700" fill="#9B9B9B">
+                    <tspan x="30" y="226">ARRIVAL CITY</tspan>
+                </text>
+                <text id="DTW" font-family="Avenir-Black, Avenir" font-size="72" font-weight="700" letter-spacing="0.863999963" fill="#2F6EAF">
+                    <tspan x="30" y="118">DTW</tspan>
+                </text>
+                <text id="MSY" font-family="Avenir-Black, Avenir" font-size="72" font-weight="700" letter-spacing="0.863999963" fill="#2F6EAF">
+                    <tspan x="30" y="305">MSY</tspan>
+                </text>
+                <text id="Detroit,-Michigan" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="251" y="104">Detroit, Michigan</tspan>
+                </text>
+                <text id="New-Orleans,-Louisia" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="251" y="291">New Orleans, Louisiana</tspan>
+                </text>
+            </g>
+            <g id="Dates" filter="url(#filter-9)" transform="translate(20.000000, 593.000000)">
+                <rect id="Rectangle-22" fill="#FFFFFF" x="0" y="0" width="710" height="206" rx="5"></rect>
+                <text id="Apr-20" font-family="Avenir-Black, Avenir" font-size="48" font-weight="700" letter-spacing="0.575999975" fill="#2F6EAF">
+                    <tspan x="97" y="135">Apr 20</tspan>
+                </text>
+                <text id="Apr-31" font-family="Avenir-Black, Avenir" font-size="48" font-weight="700" letter-spacing="0.575999975" fill="#2F6EAF">
+                    <tspan x="451" y="135">Apr 31</tspan>
+                </text>
+                <path d="M355.5,205.5 L355.5,0.5" id="Line" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <text id="Departure-Date" font-family="Avenir-Black, Avenir" font-size="20" font-weight="700" fill="#9B9B9B">
+                    <tspan x="86" y="74">DEPARTURE DATE</tspan>
+                </text>
+                <text id="Return-Date" font-family="Avenir-Black, Avenir" font-size="20" font-weight="700" fill="#9B9B9B">
+                    <tspan x="460" y="74">RETURN DATE</tspan>
+                </text>
+            </g>
+            <g id="Passengers" filter="url(#filter-10)" transform="translate(20.000000, 819.000000)">
+                <rect id="Rectangle-22" fill="#FFFFFF" x="0" y="0" width="710" height="175" rx="5"></rect>
+                <text id="2" font-family="Avenir-Book, Avenir" font-size="36" font-weight="normal" letter-spacing="0.431999981" fill="#2F6EAF">
+                    <tspan x="105.276" y="137">2</tspan>
+                </text>
+                <text id="+" font-family="Avenir-Black, Avenir" font-size="36" font-weight="700" letter-spacing="0.431999981" fill="#333333">
+                    <tspan x="155.296" y="134">+</tspan>
+                </text>
+                <text id="–" font-family="Avenir-Black, Avenir" font-size="36" font-weight="700" letter-spacing="0.431999981" fill="#333333">
+                    <tspan x="55.284" y="132">–</tspan>
+                </text>
+                <text id="Adults" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" fill="#333333">
+                    <tspan x="80" y="49">Adults</tspan>
+                </text>
+                <text id="Kids" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" fill="#333333">
+                    <tspan x="332" y="49">Kids</tspan>
+                </text>
+                <text id="(under-14)" font-family="Avenir-Light, Avenir" font-size="18" font-weight="300" fill="#333333">
+                    <tspan x="315" y="76">(under 14)</tspan>
+                </text>
+                <text id="(14+)" font-family="Avenir-Light, Avenir" font-size="18" font-weight="300" fill="#333333">
+                    <tspan x="95" y="76">(14+)</tspan>
+                </text>
+                <text id="(under-2)" font-family="Avenir-Light, Avenir" font-size="18" font-weight="300" fill="#333333">
+                    <tspan x="556" y="76">(under 2)</tspan>
+                </text>
+                <text id="Infants" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" fill="#333333">
+                    <tspan x="555" y="49">Infants</tspan>
+                </text>
+                <text id="0-copy" font-family="Avenir-Book, Avenir" font-size="36" font-weight="normal" letter-spacing="0.431999981" fill="#2F6EAF">
+                    <tspan x="342.276" y="134">0</tspan>
+                </text>
+                <text id="0-copy-2" font-family="Avenir-Book, Avenir" font-size="36" font-weight="normal" letter-spacing="0.431999981" fill="#2F6EAF">
+                    <tspan x="580.276" y="134">0</tspan>
+                </text>
+                <text id="+-copy" font-family="Avenir-Black, Avenir" font-size="36" font-weight="700" letter-spacing="0.431999981" fill="#333333">
+                    <tspan x="393.296" y="134">+</tspan>
+                </text>
+                <text id="+-copy-2" font-family="Avenir-Black, Avenir" font-size="36" font-weight="700" letter-spacing="0.431999981" fill="#333333">
+                    <tspan x="631.296" y="134">+</tspan>
+                </text>
+                <text id="–-copy" font-family="Avenir-Black, Avenir" font-size="36" font-weight="700" letter-spacing="0.431999981" fill="#333333">
+                    <tspan x="293.284" y="132">–</tspan>
+                </text>
+                <text id="–-copy-2" font-family="Avenir-Black, Avenir" font-size="36" font-weight="700" letter-spacing="0.431999981" fill="#333333">
+                    <tspan x="531.284" y="132">–</tspan>
+                </text>
+                <path d="M235.5,173.5 L235.5,0.5" id="Line" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M474.5,173.5 L474.5,0.5" id="Line-Copy" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+            </g>
+            <g id="Class" filter="url(#filter-11)" transform="translate(20.000000, 1014.000000)">
+                <rect id="Rectangle-22" fill="#FFFFFF" x="0" y="0" width="710" height="100" rx="5"></rect>
+                <g id="Rectangle-113">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                    <use fill="#2F6EAF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-12"></use>
+                </g>
+                <text id="Dollars" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" fill="#FFFFFF">
+                    <tspan x="138" y="58">Dollars</tspan>
+                </text>
+                <text id="True-Blue-Points" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" fill="#333333">
+                    <tspan x="445" y="58">True Blue Points</tspan>
+                </text>
+                <path d="M354.5,98.5 L354,2" id="Line-Copy" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <rect id="Rectangle-114" fill="#FFFFFF" x="355" y="0" width="14" height="100"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

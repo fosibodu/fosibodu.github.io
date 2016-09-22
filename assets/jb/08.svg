@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="1334px" viewBox="0 0 750 1334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>08 - Calendar Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="750" height="88"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M70.2267176,827 C51.8761082,827 37,841.774603 37,860 C37,878.225397 51.8761082,893 70.2267176,893 L677.5,893 L677.5,827 L70.2267176,827 Z" id="path-3"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.184313725   0 0 0 0 0.431372549   0 0 0 0 0.68627451  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M676,711 L269,711 L269,777 L676,777 C694.225397,777 709,762.225397 709,744 C709,725.774603 694.225397,711 676,711 Z" id="path-5"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.184313725   0 0 0 0 0.431372549   0 0 0 0 0.68627451  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-7" cx="272" cy="744" r="33"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.184313725   0 0 0 0 0.431372549   0 0 0 0 0.68627451  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-9" cx="676" cy="860" r="33"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-10">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.184313725   0 0 0 0 0.431372549   0 0 0 0 0.68627451  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="0" y="0" width="750" height="96"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.603921569   0 0 0 0 0  0 0 0 0.497820426 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="JetBlue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="08---Calendar-Copy">
+            <g id="Nav-Bar">
+                <g id="Background" transform="translate(0.000000, 40.000000)">
+                    <g>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#002361" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <g id="Status-Bar-/-White-">
+                    <polygon id="Background" fill="#002361" fill-rule="evenodd" points="0 0 0 40 750 40 750 0 389 0"></polygon>
+                    <g id="Signal" stroke-width="1" fill-rule="evenodd" transform="translate(13.000000, 15.000000)" fill="#FFFFFF">
+                        <ellipse id="Oval-1" cx="5.5" cy="5.5" rx="5.5" ry="5.5"></ellipse>
+                        <ellipse id="Oval-1-copy" cx="19.5" cy="5.5" rx="5.5" ry="5.5"></ellipse>
+                        <ellipse id="Oval-1-copy-2" cx="33.5" cy="5.5" rx="5.5" ry="5.5"></ellipse>
+                        <path d="M47.5,10 L47.5,10 C49.9852815,10 52,7.98528152 52,5.5 C52,3.01471848 49.9852815,1 47.5,1 C45.0147185,1 43,3.01471848 43,5.5 C43,7.98528152 45.0147185,10 47.5,10 L47.5,10 Z M47.5,11 L47.5,11 C44.4624337,11 42,8.53756627 42,5.5 C42,2.46243373 44.4624337,0 47.5,0 C50.5375663,0 53,2.46243373 53,5.5 C53,8.53756627 50.5375663,11 47.5,11 L47.5,11 Z" id="Shape"></path>
+                        <path d="M61.5,10 L61.5,10 C63.9852815,10 66,7.98528152 66,5.5 C66,3.01471848 63.9852815,1 61.5,1 C59.0147185,1 57,3.01471848 57,5.5 C57,7.98528152 59.0147185,10 61.5,10 L61.5,10 Z M61.5,11 L61.5,11 C58.4624337,11 56,8.53756627 56,5.5 C56,2.46243373 58.4624337,0 61.5,0 C64.5375663,0 67,2.46243373 67,5.5 C67,8.53756627 64.5375663,11 61.5,11 L61.5,11 Z" id="Shape"></path>
+                    </g>
+                    <text id="Facebook" font-family="SFUIDisplay-Regular, SF UI Display" font-size="24" font-weight="normal" line-spacing="28" letter-spacing="-0.000855312392" fill="#FFFFFF">
+                        <tspan x="88" y="29">FB</tspan>
+                    </text>
+                    <path d="M139.482686,22.9632497 C137.971392,22.9632497 136.587039,23.6002169 135.511406,24.5188619 L139.482686,29.055 L143.458474,24.5233687 C142.382089,23.6024703 140.996986,22.9632497 139.482686,22.9632497 Z M139.639675,13.9908752 C143.405143,13.9908752 146.837855,15.421798 149.46835,17.7691124 L151.294372,15.6869506 C148.17789,12.8964633 144.107459,10.945 139.638924,10.945 C135.1779,10.945 131.112727,12.8912053 128,15.6741813 L129.823018,17.7578453 C132.452762,15.41654 135.879465,13.9908752 139.639675,13.9908752 Z M139.587095,20 C141.844273,20 143.906153,20.8465355 145.496318,22.2376479 L147.429754,20.0345525 C145.32656,18.1717238 142.589404,16.9541248 139.587846,16.9541248 C136.591546,16.9541248 133.858146,18.1679681 131.755703,20.0255388 L133.686134,22.2316387 C135.274797,20.8427798 137.333673,20 139.587095,20 Z" id="Wifi" fill="#FFFFFF" fill-rule="evenodd"></path>
+                    <text id="9:41" font-family="SFUIDisplay-Regular, SF UI Display" font-size="24" font-weight="normal" line-spacing="28" letter-spacing="-0.000855312392" fill="#FFFFFF">
+                        <tspan x="332" y="29">1:20 PM</tspan>
+                    </text>
+                    <g id="Battery-Icon" stroke-width="1" fill-rule="evenodd" transform="translate(690.000000, 11.000000)" fill="#FFFFFF">
+                        <path d="M1,3.00012207 L1,3.00012207 L1,15.9998779 C1,17.1084722 1.89442645,18 3.0049167,18 L41.9950833,18 C43.1018726,18 44,17.1035969 44,15.9998779 L44,3.00012207 C44,1.89152775 43.1055735,1 41.9950833,1 L3.0049167,1 C1.89812741,1 1,1.89640308 1,3.00012207 L1,3.00012207 Z M0,3.00012207 C0,1.3432004 1.34676062,0 3.0049167,0 L41.9950833,0 C43.654653,0 45,1.3360431 45,3.00012207 L45,15.9998779 C45,17.6567996 43.6532394,19 41.9950833,19 L3.0049167,19 C1.34534703,19 0,17.6639569 0,15.9998779 L0,3.00012207 L0,3.00012207 Z" id="Shape"></path>
+                        <path d="M2.99653482,2 C2.44616384,2 2,2.44892021 2,3.00748397 L2,15.992516 C2,16.5489341 2.43981314,17 2.99653482,17 L30,17 L30,2 L2.99653482,2 Z M46,6 L47.5,6 C48.3284271,6 49,6.67118943 49,7.50167562 L49,11.4983244 C49,12.3276769 48.3342028,13 47.5,13 L46,13 L46,6 Z" id="Shape"></path>
+                    </g>
+                    <text id="42%" font-family="SFUIDisplay-Regular, SF UI Display" font-size="24" font-weight="normal" line-spacing="28" letter-spacing="-0.000855312392" fill="#FFFFFF">
+                        <tspan x="637" y="29">77%</tspan>
+                    </text>
+                    <path d="M623.919257,14.9762275 L615.522024,7 L615,7 L615,18 L609.622827,12.2438347 L608,13.9034659 L614.857143,20.5009998 L608,27.0985337 L609.622827,28.7571651 L615,23 L615,34 L615.685502,34 L624,26.0027772 L618.291197,20.5009998 L623.919257,14.9762275 Z M617,18 L617,12 L620.546753,15 L617,18 Z M617,23 L620.588379,26 L617,29 L617,23 Z" id="Bluetooth" fill="#FFFFFF" fill-rule="evenodd" opacity="0.45"></path>
+                </g>
+                <text id="Choose-Flight-Dates" font-family="Avenir-Medium, Avenir" font-size="34" font-weight="400" fill="#FFFFFF">
+                    <tspan x="218.175" y="98">Choose Flight Dates</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(20.000000, 76.000000)" stroke-linecap="round" stroke-width="4" stroke="#FFFFFF">
+                <g id="Close-">
+                    <path d="M0,0 L21.2132034,21.2132034" id="Line"></path>
+                    <path d="M0.393398282,21.6066017 L21.6066017,0.393398282" id="Line-Copy-2"></path>
+                </g>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#2F6EAF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="#2F6EAF" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+            <g id="Oval-1">
+                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                <use fill="#002361" fill-rule="evenodd" xlink:href="#path-7"></use>
+            </g>
+            <g id="Oval-1-Copy">
+                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                <use fill="#002361" fill-rule="evenodd" xlink:href="#path-9"></use>
+            </g>
+            <text id="1" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="464.492" y="415">1</tspan>
+            </text>
+            <text id="28" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#9B9B9B">
+                <tspan x="252.484" y="415">28</tspan>
+            </text>
+            <text id="26" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#9B9B9B">
+                <tspan x="50.484" y="415">26</tspan>
+            </text>
+            <text id="2" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="565.492" y="415">2</tspan>
+            </text>
+            <text id="29" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#9B9B9B">
+                <tspan x="353.484" y="415">29</tspan>
+            </text>
+            <text id="27" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#9B9B9B">
+                <tspan x="151.484" y="415">27</tspan>
+            </text>
+            <text id="3" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="666.492" y="415">3</tspan>
+            </text>
+            <text id="4" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="60.492" y="525">4</tspan>
+            </text>
+            <text id="5" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="161.492" y="525">5</tspan>
+            </text>
+            <text id="T" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#2F6EAF">
+                <tspan x="262.168" y="293">T</tspan>
+            </text>
+            <text id="S" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#2F6EAF">
+                <tspan x="60.492" y="293">S</tspan>
+            </text>
+            <text id="W" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#2F6EAF">
+                <tspan x="358.184" y="293">W</tspan>
+            </text>
+            <text id="M" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#2F6EAF">
+                <tspan x="155.192" y="293">M</tspan>
+            </text>
+            <text id="T" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#2F6EAF">
+                <tspan x="464.168" y="293">T</tspan>
+            </text>
+            <text id="F" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#2F6EAF">
+                <tspan x="565.168" y="293">F</tspan>
+            </text>
+            <text id="S" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#2F6EAF">
+                <tspan x="669.492" y="293">S</tspan>
+            </text>
+            <text id="6" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="262.492" y="525">6</tspan>
+            </text>
+            <text id="7" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="363.492" y="525">7</tspan>
+            </text>
+            <text id="8" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="464.492" y="525">8</tspan>
+            </text>
+            <text id="9" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="565.492" y="525">9</tspan>
+            </text>
+            <text id="11" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="50.484" y="641">11</tspan>
+            </text>
+            <text id="10" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="656.484" y="525">10</tspan>
+            </text>
+            <text id="12" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="151.484" y="641">12</tspan>
+            </text>
+            <text id="13" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="252.484" y="641">13</tspan>
+            </text>
+            <text id="14" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="353.484" y="641">14</tspan>
+            </text>
+            <text id="15" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="454.484" y="641">15</tspan>
+            </text>
+            <text id="16" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="555.484" y="641">16</tspan>
+            </text>
+            <text id="18" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="50.484" y="757">18</tspan>
+            </text>
+            <text id="17" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="656.484" y="641">17</tspan>
+            </text>
+            <text id="19" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#333333">
+                <tspan x="151.484" y="757">19</tspan>
+            </text>
+            <text id="20" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#FFFFFF">
+                <tspan x="252.484" y="757">20</tspan>
+            </text>
+            <text id="21" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#FFFFFF">
+                <tspan x="353.484" y="757">21</tspan>
+            </text>
+            <text id="22" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#FFFFFF">
+                <tspan x="454.484" y="757">22</tspan>
+            </text>
+            <text id="23" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#FFFFFF">
+                <tspan x="555.484" y="757">23</tspan>
+            </text>
+            <text id="25" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#FFFFFF">
+                <tspan x="50.484" y="873">25</tspan>
+            </text>
+            <text id="24" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#FFFFFF">
+                <tspan x="656.484" y="757">24</tspan>
+            </text>
+            <text id="26" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#FFFFFF">
+                <tspan x="151.484" y="873">26</tspan>
+            </text>
+            <text id="27" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#FFFFFF">
+                <tspan x="252.484" y="873">27</tspan>
+            </text>
+            <text id="28" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#FFFFFF">
+                <tspan x="353.484" y="873">28</tspan>
+            </text>
+            <text id="29" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#FFFFFF">
+                <tspan x="454.484" y="873">29</tspan>
+            </text>
+            <text id="30" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#FFFFFF">
+                <tspan x="555.484" y="873">30</tspan>
+            </text>
+            <text id="31" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" fill="#FFFFFF">
+                <tspan x="656.484" y="873">31</tspan>
+            </text>
+            <g id="month" transform="translate(0.000000, 128.000000)">
+                <g id="Rectangle-90">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                </g>
+                <text font-family="Avenir-Heavy, Avenir" font-size="48" font-weight="600" fill="#333333">
+                    <tspan x="257" y="63">April 2016</tspan>
+                </text>
+                <path d="M670.467686,62.0027793 C668.000251,63.2364967 666,61.9943424 666,59.2425577 L666,36.2306869 C666,33.4725412 668.002285,32.2377649 670.467686,33.4704653 L694.532314,45.5027793 C696.999749,46.7364967 696.997715,48.7377649 694.532314,49.9704653 L670.467686,62.0027793 Z" id="Triangle-1" fill="#333333"></path>
+                <g id="Group-3" transform="translate(54.000000, 34.000000)" fill="#333333">
+                    <path d="M5.08555856,29.0100706 C2.61812373,30.243788 0.617872592,29.0016338 0.617872592,26.249849 L0.617872592,3.23797816 C0.617872592,0.479832461 2.62015792,-0.754943742 5.08555856,0.47775658 L29.1501866,12.5100706 C31.6176214,13.743788 31.6155873,15.7450563 29.1501866,16.9777566 L5.08555856,29.0100706 Z" id="Triangle-1-Copy" transform="translate(15.808936, 14.743646) rotate(-180.000000) translate(-15.808936, -14.743646) "></path>
+                </g>
+            </g>
+            <g id="Button" filter="url(#filter-13)" transform="translate(20.000000, 1239.000000)">
+                <rect id="Rectangle-22-Copy-4" fill="#FF9A00" x="0" y="0" width="710" height="75" rx="5"></rect>
+                <text id="select-dates" font-family="Avenir-Black, Avenir" font-size="24" font-weight="700" fill="#FFFFFF">
+                    <tspan x="269" y="45">SELECT DATES</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="1832px" viewBox="0 0 750 1832" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #EFF0F4;">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>16 - Pick a arrival flight Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="750" height="88"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="128" width="750" height="40"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.184313725   0 0 0 0 0.431372549   0 0 0 0 0.68627451  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-9" x="235" y="0" width="235" height="100"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.184313725   0 0 0 0 0.431372549   0 0 0 0 0.68627451  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-11">
+            <feGaussianBlur stdDeviation="3.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.137254902   0 0 0 0 0.380392157  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.603921569   0 0 0 0 0  0 0 0 0.497820426 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-14" x="1" y="210" width="235" height="105"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.184313725   0 0 0 0 0.431372549   0 0 0 0 0.68627451  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-16">
+            <feGaussianBlur stdDeviation="3.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.137254902   0 0 0 0 0.380392157  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="JetBlue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="16---Pick-a-arrival-flight-Copy">
+            <g id="Nav-Bar">
+                <g id="Background" transform="translate(0.000000, 40.000000)">
+                    <g>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#002361" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <g id="Rectangle-21">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#2F6EAF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <g id="Status-Bar-/-White-">
+                    <polygon id="Background" fill="#002361" fill-rule="evenodd" points="0 0 0 40 750 40 750 0 389 0"></polygon>
+                    <g id="Signal" stroke-width="1" fill-rule="evenodd" transform="translate(13.000000, 15.000000)" fill="#FFFFFF">
+                        <ellipse id="Oval-1" cx="5.5" cy="5.5" rx="5.5" ry="5.5"></ellipse>
+                        <ellipse id="Oval-1-copy" cx="19.5" cy="5.5" rx="5.5" ry="5.5"></ellipse>
+                        <ellipse id="Oval-1-copy-2" cx="33.5" cy="5.5" rx="5.5" ry="5.5"></ellipse>
+                        <path d="M47.5,10 L47.5,10 C49.9852815,10 52,7.98528152 52,5.5 C52,3.01471848 49.9852815,1 47.5,1 C45.0147185,1 43,3.01471848 43,5.5 C43,7.98528152 45.0147185,10 47.5,10 L47.5,10 Z M47.5,11 L47.5,11 C44.4624337,11 42,8.53756627 42,5.5 C42,2.46243373 44.4624337,0 47.5,0 C50.5375663,0 53,2.46243373 53,5.5 C53,8.53756627 50.5375663,11 47.5,11 L47.5,11 Z" id="Shape"></path>
+                        <path d="M61.5,10 L61.5,10 C63.9852815,10 66,7.98528152 66,5.5 C66,3.01471848 63.9852815,1 61.5,1 C59.0147185,1 57,3.01471848 57,5.5 C57,7.98528152 59.0147185,10 61.5,10 L61.5,10 Z M61.5,11 L61.5,11 C58.4624337,11 56,8.53756627 56,5.5 C56,2.46243373 58.4624337,0 61.5,0 C64.5375663,0 67,2.46243373 67,5.5 C67,8.53756627 64.5375663,11 61.5,11 L61.5,11 Z" id="Shape"></path>
+                    </g>
+                    <text id="Facebook" font-family="SFUIDisplay-Regular, SF UI Display" font-size="24" font-weight="normal" line-spacing="28" letter-spacing="-0.000855312392" fill="#FFFFFF">
+                        <tspan x="88" y="29">FB</tspan>
+                    </text>
+                    <path d="M139.482686,22.9632497 C137.971392,22.9632497 136.587039,23.6002169 135.511406,24.5188619 L139.482686,29.055 L143.458474,24.5233687 C142.382089,23.6024703 140.996986,22.9632497 139.482686,22.9632497 Z M139.639675,13.9908752 C143.405143,13.9908752 146.837855,15.421798 149.46835,17.7691124 L151.294372,15.6869506 C148.17789,12.8964633 144.107459,10.945 139.638924,10.945 C135.1779,10.945 131.112727,12.8912053 128,15.6741813 L129.823018,17.7578453 C132.452762,15.41654 135.879465,13.9908752 139.639675,13.9908752 Z M139.587095,20 C141.844273,20 143.906153,20.8465355 145.496318,22.2376479 L147.429754,20.0345525 C145.32656,18.1717238 142.589404,16.9541248 139.587846,16.9541248 C136.591546,16.9541248 133.858146,18.1679681 131.755703,20.0255388 L133.686134,22.2316387 C135.274797,20.8427798 137.333673,20 139.587095,20 Z" id="Wifi" fill="#FFFFFF" fill-rule="evenodd"></path>
+                    <text id="9:41" font-family="SFUIDisplay-Regular, SF UI Display" font-size="24" font-weight="normal" line-spacing="28" letter-spacing="-0.000855312392" fill="#FFFFFF">
+                        <tspan x="332" y="29">1:20 PM</tspan>
+                    </text>
+                    <g id="Battery-Icon" stroke-width="1" fill-rule="evenodd" transform="translate(690.000000, 11.000000)" fill="#FFFFFF">
+                        <path d="M1,3.00012207 L1,3.00012207 L1,15.9998779 C1,17.1084722 1.89442645,18 3.0049167,18 L41.9950833,18 C43.1018726,18 44,17.1035969 44,15.9998779 L44,3.00012207 C44,1.89152775 43.1055735,1 41.9950833,1 L3.0049167,1 C1.89812741,1 1,1.89640308 1,3.00012207 L1,3.00012207 Z M0,3.00012207 C0,1.3432004 1.34676062,0 3.0049167,0 L41.9950833,0 C43.654653,0 45,1.3360431 45,3.00012207 L45,15.9998779 C45,17.6567996 43.6532394,19 41.9950833,19 L3.0049167,19 C1.34534703,19 0,17.6639569 0,15.9998779 L0,3.00012207 L0,3.00012207 Z" id="Shape"></path>
+                        <path d="M2.99653482,2 C2.44616384,2 2,2.44892021 2,3.00748397 L2,15.992516 C2,16.5489341 2.43981314,17 2.99653482,17 L30,17 L30,2 L2.99653482,2 Z M46,6 L47.5,6 C48.3284271,6 49,6.67118943 49,7.50167562 L49,11.4983244 C49,12.3276769 48.3342028,13 47.5,13 L46,13 L46,6 Z" id="Shape"></path>
+                    </g>
+                    <text id="42%" font-family="SFUIDisplay-Regular, SF UI Display" font-size="24" font-weight="normal" line-spacing="28" letter-spacing="-0.000855312392" fill="#FFFFFF">
+                        <tspan x="637" y="29">77%</tspan>
+                    </text>
+                    <path d="M623.919257,14.9762275 L615.522024,7 L615,7 L615,18 L609.622827,12.2438347 L608,13.9034659 L614.857143,20.5009998 L608,27.0985337 L609.622827,28.7571651 L615,23 L615,34 L615.685502,34 L624,26.0027772 L618.291197,20.5009998 L623.919257,14.9762275 Z M617,18 L617,12 L620.546753,15 L617,18 Z M617,23 L620.588379,26 L617,29 L617,23 Z" id="Bluetooth" fill="#FFFFFF" fill-rule="evenodd" opacity="0.45"></path>
+                </g>
+                <text id="Select-Arrival-Fligh" font-family="Avenir-Medium, Avenir" font-size="34" font-weight="400" fill="#FFFFFF">
+                    <tspan x="224.55" y="98">Select Arrival Flight</tspan>
+                </text>
+                <g id="Group" transform="translate(20.000000, 76.000000)" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round">
+                    <path d="M0,1 L30,1" id="Line"></path>
+                    <path d="M0,10 L30,10" id="Line-Copy"></path>
+                    <path d="M0,19 L30,19" id="Line-Copy-2"></path>
+                </g>
+                <text id="sort" font-family="Avenir-Black, Avenir" font-size="24" font-weight="700" fill="#FFFFFF">
+                    <tspan x="666" y="156">SORT</tspan>
+                </text>
+            </g>
+            <g id="flight" filter="url(#filter-5)" transform="translate(20.000000, 392.000000)">
+                <rect id="Rectangle-22" fill="#FFFFFF" x="0" y="0" width="710" height="315" rx="5"></rect>
+                <path d="M237,315 L237,212" id="Line-Copy" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M475,315 L475,212" id="Line-Copy-2" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M1,211 L709,211" id="Line" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <text id="MSY" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="20" y="55">MSY</tspan>
+                </text>
+                <text id="DTW" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="146" y="55">DTW</tspan>
+                </text>
+                <text id="Nonstop" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="544" y="55">Nonstop</tspan>
+                </text>
+                <text id="8:30AM" font-family="Avenir-Heavy, Avenir" font-size="36" font-weight="600" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="20" y="124">8:30AM</tspan>
+                </text>
+                <text id="$722" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="77" y="291">$722</tspan>
+                </text>
+                <text id="$750" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="314" y="291">$750</tspan>
+                </text>
+                <text id="$922" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="551" y="291">$922</tspan>
+                </text>
+                <text id="Blue" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" letter-spacing="0.288000017" fill="#333333">
+                    <tspan x="94" y="246">Blue</tspan>
+                </text>
+                <text id="Blue-Plus" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" letter-spacing="0.288000017" fill="#333333">
+                    <tspan x="305" y="246">Blue Plus</tspan>
+                </text>
+                <text id="Blue-Flex" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" letter-spacing="0.288000017" fill="#333333">
+                    <tspan x="541" y="246">Blue Flex</tspan>
+                </text>
+                <text id="1:30PM" font-family="Avenir-Heavy, Avenir" font-size="36" font-weight="600" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="204" y="124">1:30PM</tspan>
+                </text>
+                <text id="5h0m" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="597" y="124">5h0m</tspan>
+                </text>
+                <polygon id="Triangle-1" fill="#333333" points="116 48.3725273 116 37 127.372527 42.6862637"></polygon>
+                <polygon id="Triangle-1-Copy-2" fill="#333333" points="177 115 177 104 188 109.5"></polygon>
+            </g>
+            <g id="flight-copy" filter="url(#filter-6)" transform="translate(20.000000, 727.000000)">
+                <rect id="Rectangle-22" fill="#FFFFFF" x="0" y="0" width="710" height="315" rx="5"></rect>
+                <path d="M237,315 L237,212" id="Line-Copy" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M475,315 L475,212" id="Line-Copy-2" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M1,211 L709,211" id="Line" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <text id="MSY" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="20" y="55">MSY</tspan>
+                </text>
+                <text id="DTW" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="146" y="55">DTW</tspan>
+                </text>
+                <text id="Nonstop" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="544" y="55">Nonstop</tspan>
+                </text>
+                <text id="10:15AM" font-family="Avenir-Heavy, Avenir" font-size="36" font-weight="600" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="20" y="124">10:15AM</tspan>
+                </text>
+                <text id="$750" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="314" y="291">$750</tspan>
+                </text>
+                <text id="$922" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="551" y="291">$922</tspan>
+                </text>
+                <g id="Group-2" transform="translate(77.000000, 222.000000)" font-family="Avenir-Medium, Avenir" fill="#333333" font-weight="400">
+                    <text id="$722" font-size="36" letter-spacing="0.432000011">
+                        <tspan x="0" y="69">$722</tspan>
+                    </text>
+                    <text id="Blue" font-size="24" letter-spacing="0.288000017">
+                        <tspan x="17" y="24">Blue</tspan>
+                    </text>
+                </g>
+                <text id="Blue-Plus" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" letter-spacing="0.288000017" fill="#333333">
+                    <tspan x="305" y="246">Blue Plus</tspan>
+                </text>
+                <text id="Blue-Flex" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" letter-spacing="0.288000017" fill="#333333">
+                    <tspan x="541" y="246">Blue Flex</tspan>
+                </text>
+                <text id="3:15PM" font-family="Avenir-Heavy, Avenir" font-size="36" font-weight="600" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="226" y="124">3:15PM</tspan>
+                </text>
+                <text id="5h0m" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="597" y="124">5h0m</tspan>
+                </text>
+                <polygon id="Triangle-1" fill="#333333" points="116 48.3725273 116 37 127.372527 42.6862637"></polygon>
+                <polygon id="Triangle-1-Copy-2" fill="#333333" points="199 116 199 105 210 110.5"></polygon>
+            </g>
+            <g id="flight-copy-2" filter="url(#filter-7)" transform="translate(20.000000, 1062.000000)">
+                <rect id="Rectangle-22" fill="#FFFFFF" x="0" y="0" width="710" height="315" rx="5"></rect>
+                <path d="M237,315 L237,212" id="Line-Copy" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M475,315 L475,212" id="Line-Copy-2" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M1,211 L709,211" id="Line" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <text id="MSY" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="20" y="55">MSY</tspan>
+                </text>
+                <text id="DTW" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="146" y="55">DTW</tspan>
+                </text>
+                <text id="2-Stops" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="564" y="55">2 Stops</tspan>
+                </text>
+                <text id="3:00PM" font-family="Avenir-Heavy, Avenir" font-size="36" font-weight="600" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="20" y="124">3:00PM</tspan>
+                </text>
+                <text id="$722" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="77" y="291">$722</tspan>
+                </text>
+                <text id="$750" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="314" y="291">$750</tspan>
+                </text>
+                <text id="$922" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="551" y="291">$922</tspan>
+                </text>
+                <text id="Blue" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" letter-spacing="0.288000017" fill="#333333">
+                    <tspan x="94" y="246">Blue</tspan>
+                </text>
+                <text id="Blue-Plus" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" letter-spacing="0.288000017" fill="#333333">
+                    <tspan x="305" y="246">Blue Plus</tspan>
+                </text>
+                <text id="Blue-Flex" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" letter-spacing="0.288000017" fill="#333333">
+                    <tspan x="541" y="246">Blue Flex</tspan>
+                </text>
+                <text id="Layover-in-Indianapo" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" letter-spacing="0.288000017" fill="#9B9B9B">
+                    <tspan x="20" y="181">Layover in Indianapolis: 50m, Chicago: 1h25m</tspan>
+                </text>
+                <text id="11:30PM" font-family="Avenir-Heavy, Avenir" font-size="36" font-weight="600" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="200" y="124">11:30PM</tspan>
+                </text>
+                <text id="8h30m" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="577" y="124">8h30m</tspan>
+                </text>
+                <polygon id="Triangle-1" fill="#333333" points="116 48.3725273 116 37 127.372527 42.6862637"></polygon>
+                <polygon id="Triangle-1-Copy-2" fill="#333333" points="173 116 173 105 184 110.5"></polygon>
+            </g>
+            <g id="dates" filter="url(#filter-8)" transform="translate(20.000000, 192.000000)">
+                <rect id="Rectangle-22" fill="#FFFFFF" x="0" y="0" width="710" height="100" rx="5"></rect>
+                <g id="Rectangle-113">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                    <use fill="#2F6EAF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-9"></use>
+                </g>
+                <text id="Fri,-Apr-30" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" fill="#333333">
+                    <tspan x="62.22" y="58">Fri, Apr 30</tspan>
+                </text>
+                <rect id="Rectangle-114" fill="#FFFFFF" x="222" y="0" width="14" height="100"></rect>
+                <rect id="Rectangle-114-Copy" fill="#FFFFFF" x="471" y="0" width="14" height="100"></rect>
+                <text id="Sat,-Apr-31" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" fill="#EEEEEE">
+                    <tspan x="292.588" y="58">Sat, Apr 31</tspan>
+                </text>
+                <text id="Sun,-May-1" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" fill="#333333">
+                    <tspan x="532.704" y="56">Sun, May 1</tspan>
+                </text>
+                <path d="M236,98.5 L236,1.5" id="Line" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M472,99 L472,1" id="Line-Copy" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+            </g>
+            <g id="Button" filter="url(#filter-12)" transform="translate(20.000000, 1737.000000)">
+                <rect id="Rectangle-22-Copy-4" fill="#FF9A00" x="0" y="0" width="710" height="75" rx="5"></rect>
+                <text id="ENTER-PASSENGER-INFO" font-family="Avenir-Black, Avenir" font-size="24" font-weight="700" fill="#FFFFFF">
+                    <tspan x="147.46" y="45">ENTER PASSENGER INFORMATION</tspan>
+                </text>
+            </g>
+            <g id="flight-copy-3" filter="url(#filter-13)" transform="translate(20.000000, 1397.000000)">
+                <rect id="Rectangle-22" fill="#FFFFFF" x="0" y="0" width="710" height="315" rx="5"></rect>
+                <g id="Rectangle-113">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
+                    <use fill="#2F6EAF" fill-rule="evenodd" xlink:href="#path-14"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-14"></use>
+                </g>
+                <rect id="Rectangle-114-Copy" fill="#FFFFFF" x="238" y="212" width="14" height="103"></rect>
+                <rect id="Rectangle-114-Copy" fill="#FFFFFF" transform="translate(121.000000, 203.000000) rotate(-90.000000) translate(-121.000000, -203.000000) " x="114" y="82" width="14" height="242"></rect>
+                <path d="M237,315 L237,212" id="Line-Copy" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M475,315 L475,212" id="Line-Copy-2" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M1,211 L709,211" id="Line" stroke="#EFF0F4" stroke-width="3" stroke-linecap="square"></path>
+                <text id="MSY" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="20" y="55">MSY</tspan>
+                </text>
+                <text id="DTW" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="146" y="55">DTW</tspan>
+                </text>
+                <text id="1-Stop" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="580" y="55">1 Stop</tspan>
+                </text>
+                <text id="2:00PM" font-family="Avenir-Heavy, Avenir" font-size="36" font-weight="600" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="20" y="124">2:00PM</tspan>
+                </text>
+                <text id="$722" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#FFFFFF">
+                    <tspan x="77" y="291">$722</tspan>
+                </text>
+                <text id="$750" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="314" y="291">$750</tspan>
+                </text>
+                <text id="$922" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="551" y="291">$922</tspan>
+                </text>
+                <text id="Blue" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" letter-spacing="0.288000017" fill="#FFFFFF">
+                    <tspan x="94" y="246">Blue</tspan>
+                </text>
+                <text id="Blue-Plus" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" letter-spacing="0.288000017" fill="#333333">
+                    <tspan x="305" y="246">Blue Plus</tspan>
+                </text>
+                <text id="Blue-Flex" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" letter-spacing="0.288000017" fill="#333333">
+                    <tspan x="541" y="246">Blue Flex</tspan>
+                </text>
+                <text id="Layover-in-New-York:" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" letter-spacing="0.288000017" fill="#9B9B9B">
+                    <tspan x="20" y="181">Layover in New York: 45m</tspan>
+                </text>
+                <text id="8:45PM" font-family="Avenir-Heavy, Avenir" font-size="36" font-weight="600" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="200" y="124">8:45PM</tspan>
+                </text>
+                <text id="6h45m" font-family="Avenir-Medium, Avenir" font-size="36" font-weight="400" letter-spacing="0.432000011" fill="#333333">
+                    <tspan x="577" y="124">6h45m</tspan>
+                </text>
+                <polygon id="Triangle-1" fill="#333333" points="116 48.3725273 116 37 127.372527 42.6862637"></polygon>
+                <polygon id="Triangle-1-Copy-2" fill="#333333" points="173 116 173 105 184 110.5"></polygon>
+            </g>
+            <g id="Group" transform="translate(20.000000, 322.000000)" fill="#333333">
+                <g id="info">
+                    <path d="M16.4197719,10.7181485 L16.4197719,7.81099731 L13.5802281,7.81099731 L13.5802281,10.7181485 L16.4197719,10.7181485 Z M16.4197719,22.2791469 L16.4197719,13.6253008 L13.5802281,13.6253008 L13.5802281,22.2791469 L16.4197719,22.2791469 Z M15,0.644531538 C18.9663462,0.644531538 22.3580227,2.053035 25.1750296,4.87004192 C27.9920377,7.68704885 29.4005412,11.0787254 29.4005412,15.0450715 C29.4005412,19.0114177 27.9920377,22.4030954 25.1750296,25.2201023 C22.3580227,28.0371092 18.9663462,29.4456127 15,29.4456127 C11.0336538,29.4456127 7.64197731,28.0371092 4.82497038,25.2201023 C2.00796231,22.4030954 0.599458846,19.0114177 0.599458846,15.0450715 C0.599458846,11.0787254 2.00796231,7.68704885 4.82497038,4.87004192 C7.64197731,2.053035 11.0336538,0.644531538 15,0.644531538 L15,0.644531538 Z" id="Shape"></path>
+                </g>
+                <text id="Compare-Fare-Options" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400">
+                    <tspan x="40" y="25">Compare Fare Options</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

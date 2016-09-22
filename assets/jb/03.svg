@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="1334px" viewBox="0 0 750 1334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>03 - Choose Arrival City</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="750" height="88"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="750 0 750 88 0 88 0 0"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="JetBlue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03---Choose-Arrival-City">
+            <g id="Nav-Bar">
+                <g id="Background" transform="translate(0.000000, 40.000000)">
+                    <g>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#002361" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <g id="Status-Bar-/-White-">
+                    <polygon id="Background" fill="#002361" fill-rule="evenodd" points="0 0 0 40 750 40 750 0 389 0"></polygon>
+                    <g id="Signal" stroke-width="1" fill-rule="evenodd" transform="translate(13.000000, 15.000000)" fill="#FFFFFF">
+                        <ellipse id="Oval-1" cx="5.5" cy="5.5" rx="5.5" ry="5.5"></ellipse>
+                        <ellipse id="Oval-1-copy" cx="19.5" cy="5.5" rx="5.5" ry="5.5"></ellipse>
+                        <ellipse id="Oval-1-copy-2" cx="33.5" cy="5.5" rx="5.5" ry="5.5"></ellipse>
+                        <path d="M47.5,10 L47.5,10 C49.9852815,10 52,7.98528152 52,5.5 C52,3.01471848 49.9852815,1 47.5,1 C45.0147185,1 43,3.01471848 43,5.5 C43,7.98528152 45.0147185,10 47.5,10 L47.5,10 Z M47.5,11 L47.5,11 C44.4624337,11 42,8.53756627 42,5.5 C42,2.46243373 44.4624337,0 47.5,0 C50.5375663,0 53,2.46243373 53,5.5 C53,8.53756627 50.5375663,11 47.5,11 L47.5,11 Z" id="Shape"></path>
+                        <path d="M61.5,10 L61.5,10 C63.9852815,10 66,7.98528152 66,5.5 C66,3.01471848 63.9852815,1 61.5,1 C59.0147185,1 57,3.01471848 57,5.5 C57,7.98528152 59.0147185,10 61.5,10 L61.5,10 Z M61.5,11 L61.5,11 C58.4624337,11 56,8.53756627 56,5.5 C56,2.46243373 58.4624337,0 61.5,0 C64.5375663,0 67,2.46243373 67,5.5 C67,8.53756627 64.5375663,11 61.5,11 L61.5,11 Z" id="Shape"></path>
+                    </g>
+                    <text id="Facebook" font-family="SFUIDisplay-Regular, SF UI Display" font-size="24" font-weight="normal" line-spacing="28" letter-spacing="-0.000855312392" fill="#FFFFFF">
+                        <tspan x="88" y="29">FB</tspan>
+                    </text>
+                    <path d="M139.482686,22.9632497 C137.971392,22.9632497 136.587039,23.6002169 135.511406,24.5188619 L139.482686,29.055 L143.458474,24.5233687 C142.382089,23.6024703 140.996986,22.9632497 139.482686,22.9632497 Z M139.639675,13.9908752 C143.405143,13.9908752 146.837855,15.421798 149.46835,17.7691124 L151.294372,15.6869506 C148.17789,12.8964633 144.107459,10.945 139.638924,10.945 C135.1779,10.945 131.112727,12.8912053 128,15.6741813 L129.823018,17.7578453 C132.452762,15.41654 135.879465,13.9908752 139.639675,13.9908752 Z M139.587095,20 C141.844273,20 143.906153,20.8465355 145.496318,22.2376479 L147.429754,20.0345525 C145.32656,18.1717238 142.589404,16.9541248 139.587846,16.9541248 C136.591546,16.9541248 133.858146,18.1679681 131.755703,20.0255388 L133.686134,22.2316387 C135.274797,20.8427798 137.333673,20 139.587095,20 Z" id="Wifi" fill="#FFFFFF" fill-rule="evenodd"></path>
+                    <text id="9:41" font-family="SFUIDisplay-Regular, SF UI Display" font-size="24" font-weight="normal" line-spacing="28" letter-spacing="-0.000855312392" fill="#FFFFFF">
+                        <tspan x="332" y="29">1:20 PM</tspan>
+                    </text>
+                    <g id="Battery-Icon" stroke-width="1" fill-rule="evenodd" transform="translate(690.000000, 11.000000)" fill="#FFFFFF">
+                        <path d="M1,3.00012207 L1,3.00012207 L1,15.9998779 C1,17.1084722 1.89442645,18 3.0049167,18 L41.9950833,18 C43.1018726,18 44,17.1035969 44,15.9998779 L44,3.00012207 C44,1.89152775 43.1055735,1 41.9950833,1 L3.0049167,1 C1.89812741,1 1,1.89640308 1,3.00012207 L1,3.00012207 Z M0,3.00012207 C0,1.3432004 1.34676062,0 3.0049167,0 L41.9950833,0 C43.654653,0 45,1.3360431 45,3.00012207 L45,15.9998779 C45,17.6567996 43.6532394,19 41.9950833,19 L3.0049167,19 C1.34534703,19 0,17.6639569 0,15.9998779 L0,3.00012207 L0,3.00012207 Z" id="Shape"></path>
+                        <path d="M2.99653482,2 C2.44616384,2 2,2.44892021 2,3.00748397 L2,15.992516 C2,16.5489341 2.43981314,17 2.99653482,17 L30,17 L30,2 L2.99653482,2 Z M46,6 L47.5,6 C48.3284271,6 49,6.67118943 49,7.50167562 L49,11.4983244 C49,12.3276769 48.3342028,13 47.5,13 L46,13 L46,6 Z" id="Shape"></path>
+                    </g>
+                    <text id="42%" font-family="SFUIDisplay-Regular, SF UI Display" font-size="24" font-weight="normal" line-spacing="28" letter-spacing="-0.000855312392" fill="#FFFFFF">
+                        <tspan x="637" y="29">77%</tspan>
+                    </text>
+                    <path d="M623.919257,14.9762275 L615.522024,7 L615,7 L615,18 L609.622827,12.2438347 L608,13.9034659 L614.857143,20.5009998 L608,27.0985337 L609.622827,28.7571651 L615,23 L615,34 L615.685502,34 L624,26.0027772 L618.291197,20.5009998 L623.919257,14.9762275 Z M617,18 L617,12 L620.546753,15 L617,18 Z M617,23 L620.588379,26 L617,29 L617,23 Z" id="Bluetooth" fill="#FFFFFF" fill-rule="evenodd" opacity="0.45"></path>
+                </g>
+                <g id="Group" transform="translate(20.000000, 76.000000)" stroke-linecap="round" stroke-width="4" stroke="#FFFFFF">
+                    <g id="Close-">
+                        <path d="M0,0 L21.2132034,21.2132034" id="Line"></path>
+                        <path d="M0.393398282,21.6066017 L21.6066017,0.393398282" id="Line-Copy-2"></path>
+                    </g>
+                </g>
+            </g>
+            <text id="Select-Arrival-City" font-family="Avenir-Medium, Avenir" font-size="34" font-weight="400" fill="#FFFFFF">
+                <tspan x="237.759" y="98">Select Arrival City</tspan>
+            </text>
+            <g id="Search" transform="translate(0.000000, 128.000000)">
+                <g id="Shape">
+                    <use fill="#C9C9CE" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                </g>
+                <rect id="Field" fill="#FFFFFF" x="16" y="16" width="718" height="56" rx="10"></rect>
+                <text font-family=".SFNSDisplay, .SF NS Display" font-size="30" font-weight="normal" letter-spacing="-0.48" fill="#8E8E93">
+                    <tspan x="348" y="55">Search</tspan>
+                </text>
+                <path d="M331.930167,54.8806707 L323.994873,47.0799942 C325.398873,45.3579942 326,43.395 326,41 C326,35.477 321.523,31 316,31 C310.478,31 306,35.477 306,41 C306,46.522 310.478,50.999 316,50.999 C318.407,50.999 320.234552,50.4663694 321.960552,49.0493694 L329.891846,56.8470459 L331.930167,54.8806707 Z M308,40.998 C308,36.579 311.581,32.997 316,32.997 C320.418,32.997 324,36.579 324,40.998 C324.001,45.417 320.419,48.998 316,48.998 C311.582,48.998 308,45.416 308,40.998 Z" fill="#8E8E93"></path>
+            </g>
+            <g id="Contacts" transform="translate(0.000000, 272.000000)">
+                <g id="Contact">
+                    <rect id="Background" fill="#FFFFFF" x="0" y="0" width="750" height="88"></rect>
+                    <path d="M32.5,87.5 L749.511169,87.5" id="Divider" stroke="#B4B4B4" stroke-linecap="square"></path>
+                    <text id="Nantucket,-MA-(ACK)" font-family="SFUIDisplay-Regular, SF UI Display" font-size="33" font-weight="normal" letter-spacing="-0.300000012" fill="#000000">
+                        <tspan x="33" y="57">Nantucket, MA (ACK)</tspan>
+                    </text>
+                </g>
+                <g id="Contact" transform="translate(0.000000, 89.000000)">
+                    <rect id="Background" fill="#FFFFFF" x="0" y="0" width="750" height="88"></rect>
+                    <path d="M32.5,87.5 L749.511169,87.5" id="Divider" stroke="#B4B4B4" stroke-linecap="square"></path>
+                    <text id="Nashville,-TN-(BNA)" font-family="SFUIDisplay-Regular, SF UI Display" font-size="33" font-weight="normal" letter-spacing="-0.300000012" fill="#000000">
+                        <tspan x="33" y="57">Nashville, TN (BNA)</tspan>
+                    </text>
+                </g>
+                <g id="Contact" transform="translate(0.000000, 178.000000)">
+                    <rect id="Background" fill="#FFFFFF" x="0" y="0" width="750" height="88"></rect>
+                    <path d="M32.5,87.5 L749.511169,87.5" id="Divider" stroke="#B4B4B4" stroke-linecap="square"></path>
+                    <text id="Nassau,-Bahamas-(NAS" font-family="SFUIDisplay-Regular, SF UI Display" font-size="33" font-weight="normal" letter-spacing="-0.300000012" fill="#000000">
+                        <tspan x="33" y="57">Nassau, Bahamas (NAS)</tspan>
+                    </text>
+                </g>
+                <g id="Contact" transform="translate(0.000000, 266.000000)">
+                    <rect id="Background" fill="#FFFFFF" x="0" y="0" width="750" height="88"></rect>
+                    <path d="M32.5,87.5 L749.511169,87.5" id="Divider" stroke="#B4B4B4" stroke-linecap="square"></path>
+                    <text id="New-Orleans,-LA-(MSY" font-family="SFUIDisplay-Regular, SF UI Display" font-size="33" font-weight="normal" letter-spacing="-0.300000012" fill="#000000">
+                        <tspan x="33" y="57">New Orleans, LA (MSY)</tspan>
+                    </text>
+                </g>
+                <g id="Contact" transform="translate(0.000000, 355.000000)">
+                    <rect id="Background" fill="#FFFFFF" x="0" y="0" width="750" height="88"></rect>
+                    <path d="M32.5,87.5 L749.511169,87.5" id="Divider" stroke="#B4B4B4" stroke-linecap="square"></path>
+                    <text id="New-York,-NY-(JFK)" font-family="SFUIDisplay-Regular, SF UI Display" font-size="33" font-weight="normal" letter-spacing="-0.300000012" fill="#000000">
+                        <tspan x="33" y="57">New York, NY (JFK)</tspan>
+                    </text>
+                </g>
+                <g id="Contact" transform="translate(0.000000, 444.000000)">
+                    <rect id="Background" fill="#FFFFFF" x="0" y="0" width="750" height="88"></rect>
+                    <path d="M32.5,87.5 L749.511169,87.5" id="Divider" stroke="#B4B4B4" stroke-linecap="square"></path>
+                    <text id="New-York,-NY-(LGA)" font-family="HelveticaNeue, Helvetica Neue" font-size="33" font-weight="normal" letter-spacing="-0.3" fill="#000000">
+                        <tspan x="33" y="57">New York, NY (LGA)</tspan>
+                    </text>
+                </g>
+                <g id="Contact" transform="translate(0.000000, 533.000000)">
+                    <rect id="Background" fill="#FFFFFF" x="0" y="0" width="750" height="88"></rect>
+                    <path d="M32.5,87.5 L749.511169,87.5" id="Divider" stroke="#B4B4B4" stroke-linecap="square"></path>
+                    <text id="New-York-City-area,-" font-family="SFUIDisplay-Regular, SF UI Display" font-size="33" font-weight="normal" letter-spacing="-0.300000012" fill="#000000">
+                        <tspan x="33" y="57">New York City area, NY (NYC)</tspan>
+                    </text>
+                </g>
+                <g id="Contact" transform="translate(0.000000, 622.000000)">
+                    <rect id="Background" fill="#FFFFFF" x="0" y="0" width="750" height="88"></rect>
+                    <path d="M32.5,87.5 L749.511169,87.5" id="Divider" stroke="#B4B4B4" stroke-linecap="square"></path>
+                    <text id="Newark,-NJ-(EWR)" font-family="SFUIDisplay-Regular, SF UI Display" font-size="33" font-weight="normal" letter-spacing="-0.300000012" fill="#000000">
+                        <tspan x="33" y="57">Newark, NJ (EWR)</tspan>
+                    </text>
+                </g>
+                <g id="Contact" transform="translate(0.000000, 711.000000)">
+                    <rect id="Background" fill="#FFFFFF" x="0" y="0" width="750" height="88"></rect>
+                    <text id="Newburgh,-NY-(SWF)" font-family="SFUIDisplay-Regular, SF UI Display" font-size="33" font-weight="normal" letter-spacing="-0.300000012" fill="#000000">
+                        <tspan x="33" y="57">Newburgh, NY (SWF)</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Contacts-Copy" transform="translate(0.000000, 1128.000000)">
+                <g id="Contact">
+                    <rect id="Background" fill="#FFFFFF" x="0" y="0" width="750" height="88"></rect>
+                    <path d="M32.5,87.5 L749.511169,87.5" id="Divider" stroke="#B4B4B4" stroke-linecap="square"></path>
+                    <text id="Oakland,-CA-(OAK)" font-family="SFUIDisplay-Regular, SF UI Display" font-size="33" font-weight="normal" letter-spacing="-0.300000012" fill="#000000">
+                        <tspan x="33" y="57">Oakland, CA (OAK)</tspan>
+                    </text>
+                </g>
+                <g id="Contact" transform="translate(0.000000, 89.000000)">
+                    <rect id="Background" fill="#FFFFFF" x="0" y="0" width="750" height="88"></rect>
+                    <path d="M32.5,87.5 L749.511169,87.5" id="Divider" stroke="#B4B4B4" stroke-linecap="square"></path>
+                    <text id="Orlando,-FL-(MCO)" font-family="SFUIDisplay-Regular, SF UI Display" font-size="33" font-weight="normal" letter-spacing="-0.300000012" fill="#000000">
+                        <tspan x="33" y="57">Orlando, FL (MCO)</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Divider" transform="translate(0.000000, 216.000000)">
+                <rect id="Background" fill="#F2F2F2" x="0" y="0" width="750" height="56"></rect>
+                <text id="N" font-family="SFUIDisplay-Regular, SF UI Display" font-size="33" font-weight="normal" fill="#007AFF">
+                    <tspan x="32" y="42">N</tspan>
+                </text>
+            </g>
+            <g id="Divider-Copy" transform="translate(0.000000, 1072.000000)">
+                <rect id="Background" fill="#F2F2F2" x="0" y="0" width="750" height="56"></rect>
+                <text id="O" font-family="SFUIDisplay-Regular, SF UI Display" font-size="33" font-weight="normal" fill="#007AFF">
+                    <tspan x="32" y="42">O</tspan>
+                </text>
+            </g>
+            <g id="Scroll-Alphanumericals" transform="translate(720.000000, 216.000000)">
+                <rect id="Background" fill="#FFFFFF" x="0" y="0" width="30" height="1019"></rect>
+                <text id="A" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="8.06054688" y="156">A</tspan>
+                </text>
+                <text id="B" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="8.25390625" y="184">B</tspan>
+                </text>
+                <text id="C" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="7.45361328" y="212">C</tspan>
+                </text>
+                <text id="D" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="7.48583984" y="240">D</tspan>
+                </text>
+                <text id="E" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="8.92529297" y="268">E</tspan>
+                </text>
+                <text id="F" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="9.19384766" y="296">F</tspan>
+                </text>
+                <text id="G" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="7.22802734" y="324">G</tspan>
+                </text>
+                <text id="H" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="7.30859375" y="352">H</tspan>
+                </text>
+                <text id="I" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="12.5292969" y="380">I</tspan>
+                </text>
+                <text id="J" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="9.55371094" y="408">J</tspan>
+                </text>
+                <text id="K" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="8.23242188" y="436">K</tspan>
+                </text>
+                <text id="L" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="9.23144531" y="464">L</tspan>
+                </text>
+                <text id="M" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="5.85839844" y="492">M</tspan>
+                </text>
+                <text id="N" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="7.30859375" y="520">N</tspan>
+                </text>
+                <text id="O" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="6.95410156" y="548">O</tspan>
+                </text>
+                <text id="P" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="8.48486328" y="576">P</tspan>
+                </text>
+                <text id="Q" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="6.95410156" y="604">Q</tspan>
+                </text>
+                <text id="R" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="8.35595703" y="632">R</tspan>
+                </text>
+                <text id="S" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="8.46875" y="660">S</tspan>
+                </text>
+                <text id="T" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="8.50097656" y="688">T</tspan>
+                </text>
+                <text id="U" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="7.34082031" y="716">U</tspan>
+                </text>
+                <text id="V" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="8.06054688" y="744">V</tspan>
+                </text>
+                <text id="W" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="4.83789062" y="772">W</tspan>
+                </text>
+                <text id="X" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="8.01757812" y="800">X</tspan>
+                </text>
+                <text id="Y" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="8.26464844" y="828">Y</tspan>
+                </text>
+                <text id="Z" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="8.21630859" y="856">Z</tspan>
+                </text>
+                <text id="#" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#007AFF">
+                    <tspan x="8.52246094" y="884">#</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
