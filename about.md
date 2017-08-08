@@ -7,7 +7,7 @@ permalink: /about/
 <h1>{{page.title}}</h1>
 
 <div class="grid">
-    <div class="col-4_sm-12"><img class="about-photo" src="/assets/about-photo.JPG"></div>
+    <div class="col-4_sm-12"><img class="about-photo" src="/assets/about-photo.jpg"></div>
     <div class="col-4_sm-12">
         <p>I'm Folake  and I am interested in all aspects of design, with a focus on user interfaces. I try to keep up to speed with the ever changing research and technologies of web design.
         </p>
