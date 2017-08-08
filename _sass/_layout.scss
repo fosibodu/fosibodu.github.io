@@ -3,26 +3,6 @@ body {
     overflow-x: hidden;
 }
 
-@font-face {
-    font-family: CircularStdBook;
-    src: url(/fonts/CircularStd-Book.otf);
-}
-
-@font-face {
-    font-family: CircularStdMedium;
-    src: url(/fonts/CircularStd-Medium.otf);
-}
-
-@font-face {
-    font-family: CircularStdBold;
-    src: url(/fonts/CircularStd-Bold.otf);
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: CircularStdBlack;
-    src: url(/fonts/CircularStd-Black.otf);
-}
 
 @mixin vertical-align($position: relative) {
     position: $position;
@@ -43,7 +23,7 @@ a:hover {
 
 .intro {
     font-size: 48px;
-    padding-bottom: 150px;
+    padding-bottom: 75px;
     @include media-query($on-palm) {
         font-size: 30px;
         padding-bottom: 50px;
@@ -62,32 +42,19 @@ a:hover {
 }
 
 .site-title {
-    font-size: 26px;
-    font-weight: 300;
-    line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
-    &,
-    &:visited {
-        color: $grey-color-dark;
+    font-size: 30px !important;
+}
+
+.page-content {
+    @include media-query($on-palm) {
+        padding: 50px 0 !important;
     }
 }
 
 .site-nav {
     line-height: 56px;
-    font-family: CircularStdBlack;
-    .page-link {
-        text-transform: uppercase;
-        color: $text-color;
-        line-height: $base-line-height;
-        text-decoration: none;
-        font-size: 18px;
-        // Gaps between nav items, but not on the last one
-        &:not(:last-child) {
-            margin-right: 20px;
-        }
-    }
+    font-weight: 700;
+
     @include media-query($on-palm) {
         .trigger {
             clear: both;
@@ -97,12 +64,34 @@ a:hover {
             display: block;
             padding-bottom: 5px;
         }
+        top:0;
+        text-align: center;
     }
 }
 
-.float-right {
-    float: right;
+.page-link {
+    color: $text-color;
+    line-height: $base-line-height;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+        margin-right: 20px;
+    }
+    &:visited {
+        color: $text-color;
+    }
 }
+
+.right {
+    text-align: right;
+    
+     @include media-query($on-palm) {
+        text-align: center;
+    }
+}
+
 
 
 /**
@@ -110,7 +99,7 @@ a:hover {
  */
 
 .site-footer {
-    padding: 50px;
+    padding: 25px;
 }
 
 .footer-heading {
@@ -178,7 +167,7 @@ a:hover {
  */
 
 .page-content {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 .page-heading {
@@ -191,7 +180,8 @@ a:hover {
 }
 
 .centered-subhead {
-    font-family: CircularStdBlack;
+    font-family: "europa",sans-serif;
+    font-weight: 700;
     color: #403B57;
     text-transform: uppercase;
     text-decoration: none;
@@ -247,7 +237,7 @@ a:hover {
 }
 
 .photo {
-    overflow-y: hidden;
+overflow-y: hidden;
     @include media-query($on-palm) {
         height: 100%;
     }
@@ -289,7 +279,9 @@ a:hover {
 
 
 /* work pages */
-
+.h2 {
+    font-weight: 700;
+}
 .photo-list h1 {
     display: inline-block;
     margin: 0 15px 15px 0;
@@ -318,32 +310,28 @@ a:hover {
 
 /*about*/
 
-.about-link {
-    color: $text-color;
-    text-decoration: none;
-    padding-bottom: 2px;
-    border-bottom: 4px #333 solid;
-    &:hover,
-    &:visited {
-        color: $text-color;
-        text-decoration: none;
-    }
-}
 button {
-    border: 3px solid #d8dbe2;
     padding: 15px 0;
     width: 150px;
-    background: none;
-    margin-left: 5px;
+    background: #403B57;
     cursor: pointer;
-    color: #403B57;
-    font-family: CircularStdBlack;
-    font-size: 12px;
-    text-transform: uppercase;
+    border: none;
+    border-radius: 4px;
+    transition: background .2s;
+    & a {
+        font-family: europa, sans-serif;
+        color: #fff;
+        font-size: 16px;
+        &:hover {
+            color: #fff;
+        }
+    }
+    &:hover {
+        background: darken( $button-color, 10%);
+    }
 }
-.social {
+.center {
     text-align: center;
-    margin: 0 auto;
 }
 
 form {
