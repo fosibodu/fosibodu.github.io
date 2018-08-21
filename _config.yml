@@ -7,11 +7,11 @@
 
 # Site settings
 title: Folake Knudsen 
-email: folakeknudsen@gmail.com
+email: folake.knudsen@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Portfolio of visual designer, Folake Knudsen
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://folakeosibodu.com" # the base hostname & protocol for your site
+url: "http://folakeknudsen.com" # the base hostname & protocol for your site
 twitter_username: folakeknudsen
 github_username:  fosibodu
 
