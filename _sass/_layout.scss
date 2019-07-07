@@ -62,7 +62,7 @@ a:hover {
 
 .page-link {
     color: $brand-color;
-    
+
     &:hover {
         color: #eb5f5d;
     }
@@ -81,13 +81,14 @@ a:hover {
         max-width: 100% !important;
         width: auto !important;
         height: auto !important;
-        
-        .page-link {
-            font-size: 13px;
-        }
     }
 
-    .centered-subhead {
-        font-size: 14px;
+    .page-link {
+        font-size: 13px;
     }
+}
+
+.centered-subhead {
+    font-size: 14px;
+}
 }
