@@ -2,6 +2,7 @@
 layout: default
 title: About
 permalink: /about/
+published: false
 ---
 
 <h1>{{page.title}}</h1>
